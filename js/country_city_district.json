@@ -1,0 +1,138 @@
+var jsonObject = 
+[
+ {
+  "id":"1",
+  "name":"Egypt",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"2",
+  "name":"Saudi Arabia",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"3",
+  "name":"United Arab Emirates",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"4",
+  "name":"Cairo",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"5",
+  "name":"Alexandria",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"6",
+  "name":"Aswan",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"7",
+  "name":"Riyadh",
+  "parent_id":"2"
+ }, 
+ {
+  "id":"8",
+  "name":"Jeddah",
+  "parent_id":"2"
+ }, 
+ {
+  "id":"9",
+  "name":"Dubia",
+  "parent_id":"3"
+ }, 
+ {
+  "id":"10",
+  "name":"Abu Dhabi",
+  "parent_id":"3"
+ }, 
+ {
+  "id":"11",
+  "name":"5th Settlement",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"12",
+  "name":"Nasr City",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"13",
+  "name":"Al-Giza",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"14",
+  "name":"District 1",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"15",
+  "name":"District 2",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"16",
+  "name":"District 3",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"17",
+  "name":"District 1",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"18",
+  "name":"District 2",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"19",
+  "name":"District 3",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"20",
+  "name":"District 1",
+  "parent_id":"7"
+ }, 
+ {
+  "id":"21",
+  "name":"District 2",
+  "parent_id":"7"
+ }, 
+ {
+  "id":"22",
+  "name":"District 1",
+  "parent_id":"8"
+ }, 
+ {
+  "id":"23",
+  "name":"District 2",
+  "parent_id":"8"
+ }, 
+ {
+  "id":"24",
+  "name":"District 1",
+  "parent_id":"9"
+ }, 
+ {
+  "id":"25",
+  "name":"District 2",
+  "parent_id":"9"
+ }, 
+ {
+  "id":"26",
+  "name":"District 1",
+  "parent_id":"10"
+ }, 
+ {
+  "id":"27",
+  "name":"District 2",
+  "parent_id":"10"
+ }
+]
