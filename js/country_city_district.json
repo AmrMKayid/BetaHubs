@@ -22,7 +22,7 @@ var jsonObject =
  }, 
  {
   "id":"5",
-  "name":"Alexandria",
+  "name":"Giza",
   "parent_id":"1"
  }, 
  {
@@ -32,7 +32,7 @@ var jsonObject =
  }, 
  {
   "id":"7",
-  "name":"Riyadh",
+  "name":"Mecca",
   "parent_id":"2"
  }, 
  {
@@ -52,32 +52,32 @@ var jsonObject =
  }, 
  {
   "id":"11",
-  "name":"5th Settlement",
+  "name":"Downtown",
   "parent_id":"4"
  }, 
  {
   "id":"12",
-  "name":"Nasr City",
+  "name":"New Cairo",
   "parent_id":"4"
  }, 
  {
   "id":"13",
-  "name":"Al-Giza",
+  "name":"Maadi",
   "parent_id":"4"
  }, 
  {
   "id":"14",
-  "name":"District 1",
+  "name":"Agouza",
   "parent_id":"5"
  }, 
  {
   "id":"15",
-  "name":"District 2",
+  "name":"Dokki",
   "parent_id":"5"
  }, 
  {
   "id":"16",
-  "name":"District 3",
+  "name":"Haram",
   "parent_id":"5"
  }, 
  {
@@ -97,28 +97,28 @@ var jsonObject =
  }, 
  {
   "id":"20",
-  "name":"District 1",
+  "name":"Azizia",
   "parent_id":"7"
  }, 
  {
   "id":"21",
-  "name":"District 2",
+  "name":"King Faisal",
   "parent_id":"7"
  }, 
  {
   "id":"22",
-  "name":"District 1",
+  "name":"Al-Murjan",
   "parent_id":"8"
  }, 
  {
   "id":"23",
-  "name":"District 2",
+  "name":"Al-Basateen",
   "parent_id":"8"
  }, 
  {
   "id":"24",
-  "name":"District 1",
-  "parent_id":"9"
+  "name":"Al-Mohamadiya",
+  "parent_id":"8"
  }, 
  {
   "id":"25",
